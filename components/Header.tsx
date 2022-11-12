@@ -86,7 +86,7 @@ const Header = () => {
             <Image
               className="h-full w-full object-contain"
               alt="ThirdWeb Logo"
-              src={"https://images.unsplash.com/photo-1605859465655-84c45e14a0af?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80"}
+              src={"https://i.pinimg.com/originals/d8/85/46/d885469a10622b66811df2a05f036d86.png"}
               width={100}
               height={100}
               priority
