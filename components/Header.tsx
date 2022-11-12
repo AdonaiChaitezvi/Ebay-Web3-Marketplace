@@ -23,10 +23,10 @@ const Header = () => {
   const bottomBar = [
     "Home",
     "Electronics",
-    "Computer",
-    "Video Games",
+    "Vehicles",
+    "Land",
     "Home & Garden",
-    "Healthy & Beauty",
+    "Infrastructure",
     "Collectibles and Art",
     "Books",
     "Musics",
