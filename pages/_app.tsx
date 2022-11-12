@@ -6,6 +6,7 @@ import Header from "../components/Header";
 import { RecoilRoot } from "recoil";
 import { Toaster } from "react-hot-toast";
 import Head from "next/head";
+<script src="//code.tidio.co/hqp6xsxominuspcp9pbdxab973wl6oke.js" async></script>
 
 function MyApp({ Component, pageProps }: AppProps) {
   return (
